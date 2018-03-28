@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on </title>
+    <link>https://ldingaa.github.io/home/</link>
+    <description>Recent content in Homes on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ldingaa.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://ldingaa.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldingaa.github.io/home/about/</guid>
+      <description>Biography I am a Ph.D. candidate in the Department of Industrial Engineering and Decision Analytics, the Hong Kong University of Science &amp;amp; Technology. My expected graduation is in June, 2018.
+My works mainly focus on stochastic optimization and stochastic modelling for big data. Please refer to my CV for details.</description>
+    </item>
+    
+    <item>
+      <title>Papers</title>
+      <link>https://ldingaa.github.io/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://ldingaa.github.io/home/publications_selected/</guid>
+      <description> L. Ding, X.W. Zhang, Scalable Stochastic Kriging with Markovian Covariances, submitted to Operations Research
+ L. Ding, X.W. Zhang, Knowledge Gradient for Robust Selection of the Best, under revision
+ L. Ding, X.W. ZHang, Enhancing Gaussian Markov Random Field Model with Weak Derivative Observations, working paper, slide available
+  </description>
+    </item>
+    
+    <item>
+      <title>Conference Papers</title>
+      <link>https://ldingaa.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://ldingaa.github.io/home/publications/</guid>
+      <description>L. X.W. ZHang, L. Ding, Sequential Sampling for Bayesian Robust Ranking &amp;amp; Selection, in the Proceedings of the 2016 Winter Simulation Conference (WSC), P758-769</description>
+    </item>
+    
+    <item>
+      <title>Teaching Experience</title>
+      <link>https://ldingaa.github.io/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldingaa.github.io/home/teaching/</guid>
+      <description> T.A., IEDA 4130 - System Simulation T.A., IEDA3010 - Operations Research I Guest Lecturer, MATH6450B - Statistical Learning  </description>
+    </item>
+    
+    <item>
+      <title>Honours &amp; Awards</title>
+      <link>https://ldingaa.github.io/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://ldingaa.github.io/home/tags/</guid>
+      <description> HKPSF, UGC, 2015 The Prince of Wales Prize in Mathematics, Trinity College, UofT, 2015 Provost&amp;rsquo;s Scholar, Trinity College, UofT, 2015 Dean&amp;rsquo;s List, School of Arts &amp;amp; Science, UofT, 2011, 2012, 2014, 2015  </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://ldingaa.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldingaa.github.io/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
