@@ -1,0 +1,58 @@
+<h2 id="publications" style="margin: 2px 0px -15px;">Working Papers</h2>
+
+<div class="publications">
+<ol class="bibliography">
+
+<li>
+<div class="pub-row">
+
+
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 1px;">
+    <div class="title"><a href="https://arxiv.org/abs/2301.10387">mcGP: Mesh-Clustered Gaussian Process Emulator for PDE systems</a></div>
+    <div class="author">Chih-Li Sung, Wenjia Wang, <strong>Liang Ding</strong>, Xingjian Wang</div>
+    
+  
+<div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left:1px;">
+    <div class="title"><a href=" "> Adaptive Learning with Random Smoothing Kernel Hilbert Spaces</a></div>
+    <div class="author"><strong>Liang Ding</strong>, Tianyang Hu, Jiahang Jiang, Donghao Li, Wenjia Wang, Yuan Yao</div>
+    
+  
+<div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left:1px;">
+    <div class="title"><a href=" "> Representing additive Gaussian Processes by Sparse Matrices</a></div>
+    <div class="author">Lu Zou, Haoyuan Chen, <strong>Liang Ding</strong></div>
+
+<div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left:1px;">
+    <div class="title"><a href=" "> Provable Double Descent of Kernel Gradient Descent</a></div>
+    <div class="author">Lu Zou, <strong>Liang Ding</strong></div>
+
+
+<div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left:1px;">
+    <div class="title"><a href="https://arxiv.org/abs/2107.08595">High-Dimensional Simulation Optimization via Brownian Fields on Sparse Grids</a></div>
+    <div class="author"><strong>Liang Ding</strong>, Rui Tuo,  Xiaowei Zhang</div>
+   
+
+
+<div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left:1px;">
+    <div class="title"><a href="https://arxiv.org/abs/1908.08868">BdryGP: a new Gaussian process model for incorporating boundary information</a></div>
+    <div class="author"><strong>Liang Ding</strong>, Simon Mak,C. F. Jeff Wu</div>
+
+    
+
+
+
+  </div>
+
+
+  </div>
+   </div>
+</div>
+  </div>
+</div>
+</div>
+</li>
+  
+<br>
+
+</ol>
+</div>
