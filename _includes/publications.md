@@ -11,7 +11,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 1px;">
     <div class="title"><a href="https://arxiv.org/abs/2112.05888.pdf">A Sparse Expansion of Deep Gaussian Processes</a></div>
     <div class="author"><strong>Liang Ding</strong>, Rui, Tuo, Shahin Shahrampour</div>
-    <div class="periodical"><em>IISE Transactions , accpted.</em></div>
+    <div class="periodical"><em>IISE Transactions , accepted.</em></div>
 <div class="links">
       <a href="https://arxiv.org/abs/2112.05888.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/ldingaa" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
