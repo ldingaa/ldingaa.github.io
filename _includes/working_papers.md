@@ -19,7 +19,7 @@
     
   
 <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left:1px;">
-    <div class="title"><a href=" "> Representing additive Gaussian Processes by Sparse Matrices</a></div>
+    <div class="title"><a href="https://arxiv.org/abs/2305.00324"> Representing additive Gaussian Processes by Sparse Matrices</a></div>
     <div class="author">Lu Zou, Haoyuan Chen, <strong>Liang Ding</strong></div>
 
 <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left:1px;">
