@@ -24,7 +24,7 @@
     <div class="periodical"><em>Operations Research , Forthcoming.</em></div>
     <div class="links">
       <a href="https://arxiv.org/abs/2010.06802" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/ldingaa/Kernel-Packet" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code coming soon</a>
+      <a href="https://github.com/ldingaa" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code coming soon</a>
   </div>
   
 <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left:1px;">
@@ -33,7 +33,7 @@
    <div class="periodical"> <em>Journal of Machine Learning Research, </em> 23 (127), 1-32.</div>
     <div class="links">
       <a href="https://arxiv.org/abs/2010.06802" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-            <a href="https://github.com/ldingaa" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+            <a href="https://github.com/ldingaa/Kernel-Packet" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
 
   </div>
 
