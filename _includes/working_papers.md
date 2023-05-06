@@ -14,7 +14,7 @@
     
   
 <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left:1px;">
-    <div class="title"><a href=" "> Adaptive Learning with Random Smoothing Kernel Hilbert Spaces</a></div>
+    <div class="title"><a href=" "> Random Smoothing Regularization in Kernel Gradient Descent Learning</a></div>
     <div class="author"><strong>Liang Ding</strong>, Tianyang Hu, Jiahang Jiang, Donghao Li, Wenjia Wang, Yuan Yao</div>
     
   
