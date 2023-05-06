@@ -23,7 +23,7 @@
     <div class="author">Lu Zou, Haoyuan Chen, <strong>Liang Ding</strong></div>
 
 <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left:1px;">
-    <div class="title"><a href=" "> High Probability Bounds of Multiple Descent in Kernel Gradient Descent</a></div>
+    <div class="title"><a href=" "> High Probability Bounds for Multiple Descent in Kernel Gradient Descent</a></div>
     <div class="author">Lu Zou, <strong>Liang Ding</strong></div>
 
 
