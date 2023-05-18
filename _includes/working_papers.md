@@ -14,7 +14,7 @@
     
   
 <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left:1px;">
-    <div class="title"><a href=" "> Random Smoothing Regularization in Kernel Gradient Descent Learning</a></div>
+    <div class="title"><a href="https://arxiv.org/abs/2305.03531"> Random Smoothing Regularization in Kernel Gradient Descent Learning</a></div>
     <div class="author"><strong>Liang Ding</strong>, Tianyang Hu, Jiahang Jiang, Donghao Li, Wenjia Wang, Yuan Yao</div>
     
   
