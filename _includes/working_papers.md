@@ -26,10 +26,6 @@
     <div class="title"><a href="https://arxiv.org/abs/2305.00324"> Representing additive Gaussian Processes by Sparse Matrices</a></div>
     <div class="author">Lu Zou, Haoyuan Chen, <strong>Liang Ding</strong></div>
 
-<div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left:1px;">
-    <div class="title"><a href=" "> High Probability Bounds for Multiple Descent in Kernel Gradient Descent</a></div>
-    <div class="author">Lu Zou, <strong>Liang Ding</strong></div>
-
 
 <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left:1px;">
     <div class="title"><a href="https://arxiv.org/abs/2107.08595">High-Dimensional Simulation Optimization via Brownian Fields on Sparse Grids</a></div>
