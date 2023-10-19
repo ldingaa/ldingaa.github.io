@@ -19,7 +19,7 @@
 
 <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left:1px;">
     <div class="title"><a href="https://arxiv.org/pdf/2310.11756"> Improved Convergence Rate of Nested Simulation with LSE on Sieve</a></div>
-    <div class="author"><strong>Liang Ding</strong>, Ruoxue Liu, Liang Ding, Wenjia Wang, Lu Zou</div>
+    <div class="author"> Ruoxue Liu, <strong>Liang Ding</strong>, Wenjia Wang, Lu Zou</div>
     
   
 <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left:1px;">
