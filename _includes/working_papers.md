@@ -4,14 +4,8 @@
 <ol class="bibliography">
 
 <li>
-  
 <div class="pub-row">
 
-
-<div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left:1px;">
-    <div class="title"><a href="https://arxiv.org/pdf/2402.04022.pdf">A General Theory for Kernel Packets: from state spacem odel to 
- compactly supported basis </a></div>
-    <div class="author"> <strong>Liang Ding</strong>， Rui Tuo</div>
 
 
 <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 1px;">
@@ -23,6 +17,11 @@
     <div class="title"><a href="https://arxiv.org/abs/2305.03531"> Random Smoothing Regularization in Kernel Gradient Descent Learning</a></div>
     <div class="author"><strong>Liang Ding</strong>, Tianyang Hu, Jiahang Jiang, Donghao Li, Wenjia Wang, Yuan Yao</div>
      <div class="periodical"><em>JMLR, minor.</em></div>
+
+<div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left:1px;">
+    <div class="title"><a href="https://arxiv.org/pdf/2402.04022.pdf">A General Theory for Kernel Packets: from state space model to 
+ compactly supported basis </a></div>
+    <div class="author"> <strong>Liang Ding</strong>, Rui Tuo</div>
 
 <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left:1px;">
     <div class="title"><a href="https://arxiv.org/pdf/2310.11756"> Improved Convergence Rate of Nested Simulation with LSE on Sieve</a></div>
