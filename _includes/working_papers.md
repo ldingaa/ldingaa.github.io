@@ -19,18 +19,18 @@
      <div class="periodical"><em>JMLR, minor.</em></div>
 
 <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left:1px;">
-    <div class="title"><a href="https://arxiv.org/pdf/2402.04022.pdf">A General Theory for Kernel Packets: from state space model to 
- compactly supported basis </a></div>
-    <div class="author"> <strong>Liang Ding</strong>, Rui Tuo</div>
-
-<div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left:1px;">
     <div class="title"><a href="https://arxiv.org/pdf/2310.11756"> Improved Convergence Rate of Nested Simulation with LSE on Sieve</a></div>
     <div class="author"> Ruoxue Liu, <strong>Liang Ding</strong>, Wenjia Wang, Lu Zou</div>
      <div class="periodical"><em>JORSC, under review.</em></div>
     
+<div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left:1px;">
+    <div class="title"><a href="https://arxiv.org/pdf/2402.04022.pdf">A General Theory for Kernel Packets: from state space model to 
+ compactly supported basis </a></div>
+    <div class="author"> <strong>Liang Ding</strong>, Rui Tuo</div>
   
 <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left:1px;">
-    <div class="title"><a href="https://arxiv.org/abs/2305.00324"> Representing additive Gaussian Processes by Sparse Matrices</a></div>
+    <div class="title"> Kernel Multigrid: accelerating back-fitting via intrinsic
+sparsity of additive Gaussian processes</a></div>
     <div class="author">Lu Zou, Haoyuan Chen, <strong>Liang Ding</strong></div>
 
 
