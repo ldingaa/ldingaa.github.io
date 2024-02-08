@@ -5,7 +5,10 @@
 
 <li>
 <div class="pub-row">
-
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 1px;">
+    <div class="title"><a href="https://arxiv.org/pdf/2402.04022.pdf">A General Theory for Kernel Packets: from state spacem odel to 
+ compactly supported basis</a></div>
+    <div class="author"> <strong>Liang Ding</strong>, Rui Tuo</div>
 
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 1px;">
