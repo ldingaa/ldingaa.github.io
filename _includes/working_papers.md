@@ -30,7 +30,7 @@
   
 <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left:1px;">
     <div class="title"> Kernel Multigrid: accelerating back-fitting via intrinsic
-sparsity of additive Gaussian processes</a></div>
+sparsity of additive Gaussian processes</div>
     <div class="author">Lu Zou, Haoyuan Chen, <strong>Liang Ding</strong></div>
 
 
