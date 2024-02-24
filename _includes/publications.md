@@ -50,7 +50,7 @@ Covariates: Consistency and Computation</a></div>
     <div class="author"><strong>Liang Ding</strong>, Rui, Tuo, Shahin Shahrampour</div>
    <div class="periodical"> <em>ICML 2020,</em> 2545-2555</div>
     <div class="links">
-      <a href="https://arxiv.org/pdf/1906.05098.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="http://proceedings.mlr.press/v119/ding20b/ding20b.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
   </div>
   </div>
    </div>
