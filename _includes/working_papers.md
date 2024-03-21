@@ -7,14 +7,13 @@
 <div class="pub-row">
 
 <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left:1px;">
+    <div class="title"><a href="https://arxiv.org/pdf/2403.13300.pdf">Kernel Multigrid: Accelerate Back-fitting via Sparse Gaussian Process Regression </a></div>
+     <div class="author"> Lu Zou, <strong>Liang Ding</strong></div>
+
+<div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left:1px;">
     <div class="title"><a href="https://arxiv.org/pdf/2402.04022.pdf">A General Theory for Kernel Packets: from state space model to 
  compactly supported basis </a></div>
     <div class="author"> <strong>Liang Ding</strong>, Rui Tuo</div>
-
-<div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 1px;">
-    <div class="title"><a href="https://arxiv.org/abs/2301.10387">mcGP: Mesh-Clustered Gaussian Process Emulator for PDE systems</a></div>
-    <div class="author">Chih-Li Sung, Wenjia Wang, <strong>Liang Ding</strong>, Xingjian Wang</div>
-     <div class="periodical"><em>Technometrics, minor.</em></div>
   
 <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left:1px;">
     <div class="title"><a href="https://arxiv.org/abs/2305.03531"> Random Smoothing Regularization in Kernel Gradient Descent Learning</a></div>
