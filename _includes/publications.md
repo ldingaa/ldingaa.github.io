@@ -17,7 +17,7 @@
 <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left:1px;">
     <div class="title"><a href="https://pubsonline.informs.org/doi/10.1287/opre.2022.2367">Sample and Computationally Efficient Stochastic Kriging in High Dimensions</a></div>
     <div class="author"><strong>Liang Ding</strong>, Xiaowei Zhang</div>
-    <div class="periodical"><em>OR, Forthcoming.</em></div>
+    <div class="periodical"><em>OR, Vol. 72, No. 2.</em></div>
     <div class="links">
       <a href="https://arxiv.org/abs/2010.06802" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/ldingaa" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code coming soon</a>
