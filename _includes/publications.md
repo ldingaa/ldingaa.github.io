@@ -12,6 +12,7 @@
      <div class="periodical"><em>JMLR, accepted.</em></div>
 
 
+  </div>
   
 <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left:1px;">
     <div class="title"><a href="https://pubsonline.informs.org/doi/10.1287/opre.2022.2367">Sample and Computationally Efficient Stochastic Kriging in High Dimensions</a></div>
