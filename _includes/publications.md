@@ -31,8 +31,7 @@
       <a href="https://www.jmlr.org/papers/volume23/21-1232/21-1232.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
             <a href="https://github.com/ldingaa/Kernel-Packet" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
 
-  
-</div>
+
 </li>
   
 <br>
