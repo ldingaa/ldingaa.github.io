@@ -15,10 +15,6 @@
  compactly supported basis </a></div>
     <div class="author"> <strong>Liang Ding</strong>, Rui Tuo</div>
   
-<div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left:1px;">
-    <div class="title"><a href="https://arxiv.org/abs/2305.03531"> Random Smoothing Regularization in Kernel Gradient Descent Learning</a></div>
-    <div class="author"><strong>Liang Ding</strong>, Tianyang Hu, Jiahang Jiang, Donghao Li, Wenjia Wang, Yuan Yao</div>
-     <div class="periodical"><em>JMLR, conditional accept.</em></div>
 
 <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left:1px;">
     <div class="title"><a href="https://arxiv.org/pdf/2310.11756"> Improved Convergence Rate of Nested Simulation with LSE on Sieve</a></div>
