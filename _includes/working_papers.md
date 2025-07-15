@@ -25,7 +25,7 @@
 
 
 <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left:1px;">
-    <div class="title"><a href="https://arxiv.org/abs/1908.08868">BdryGP: a new Gaussian process model for incorporating boundary information</a></div>
+    <div class="title"><a href="https://arxiv.org/abs/2507.09178">The BdryMatérn GP: Reliable incorporation of boundary information on irregular domains for Gaussian process modeling</a></div>
     <div class="author"><strong>Liang Ding</strong>, Simon Mak,C. F. Jeff Wu</div>
 
     
